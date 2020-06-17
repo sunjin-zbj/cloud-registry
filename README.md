@@ -1,2 +1,2 @@
 # cloud-registry
-cloud-netflix eureka 注册中心
+cloud-netflix eureka 注册中心   
